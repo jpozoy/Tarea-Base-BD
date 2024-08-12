@@ -1,0 +1,24 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+    margin: 20px;
+}
+
+.grid-header {
+    font-weight: bold;
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+}
+
+.grid-item {
+    background-color: #ffffff;
+    padding: 10px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+
+.grid-item:nth-child(5n) {
+    border-right: none;
+}

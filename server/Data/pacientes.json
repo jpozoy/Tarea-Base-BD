@@ -1,0 +1,30 @@
+[
+  {
+    "cedula": "1029384",
+    "nombre": "Luis Fern\u00E1ndez",
+    "fechaNacimiento": "1985-06-21",
+    "edad": 39,
+    "direccion": "Madrid, Espa\u00F1a"
+  },
+  {
+    "cedula": "5647382",
+    "nombre": "Sof\u00EDa Mart\u00EDnez",
+    "fechaNacimiento": "1990-11-03",
+    "edad": 33,
+    "direccion": "Buenos Aires, Argentina"
+  },
+  {
+    "cedula": "8392017",
+    "nombre": "Miguel Hern\u00E1ndez",
+    "fechaNacimiento": "1978-04-15",
+    "edad": 46,
+    "direccion": "Ciudad de M\u00E9xico, M\u00E9xico"
+  },
+  {
+    "cedula": "15896348",
+    "nombre": "Julian Araujo",
+    "fechaNacimiento": "2006-01-11",
+    "edad": 18,
+    "direccion": "Jimenez, Limon"
+  }
+]

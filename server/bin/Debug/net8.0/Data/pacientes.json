@@ -1,0 +1,30 @@
+[
+  {
+    "cedula": "Jeffersoon",
+    "nombre": "Pozo",
+    "fechaNacimiento": null,
+    "edad": 4,
+    "direccion": "Guacimo"
+  },
+  {
+    "cedula": "10258973",
+    "nombre": "Oscar",
+    "fechaNacimiento": null,
+    "edad": 0,
+    "direccion": "Limon"
+  },
+  {
+    "cedula": "12",
+    "nombre": "hffh",
+    "fechaNacimiento": null,
+    "edad": 3,
+    "direccion": "sgsfg"
+  },
+  {
+    "cedula": "1234567",
+    "nombre": "Anuel AA",
+    "fechaNacimiento": "2000-02-11",
+    "edad": 24,
+    "direccion": "Puerto Rico"
+  }
+]
