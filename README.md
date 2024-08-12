@@ -3,7 +3,7 @@
 - Bases de Datos
 
 ## Número de semestre y año lectivo
-- Semestre 1
+- Semestre 2
 - Año lectivo 2024
 
 ## Nombre del estudiante:
